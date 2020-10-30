@@ -4,11 +4,11 @@ categories:
   - title: 🚀 Features
     label: feature
   - title: 🐛 Bug Fixes
-    label: 'bug'
+    label: bug
   - title: 🧰 Maintenance
     label: chore
 tag-template: $TITLE @$AUTHOR (#$NUMBER)
-template: |
-  ## Changes
+#template: |
+  # Changes
 
-  $CHANGES
+#  $CHANGES
