@@ -5,8 +5,6 @@ categories:
     label: feature
   - title: 🐛 Bug Fixes
     label: 'bug'
-    label: 'bugfix'
-    label: 'fix'
   - title: 🧰 Maintenance
     label: chore
 tag-template: $TITLE @$AUTHOR (#$NUMBER)
