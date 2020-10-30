@@ -4,7 +4,9 @@ categories:
   - title: 🚀 Features
     label: feature
   - title: 🐛 Bug Fixes
-    label: fix
+    label: 'bug'
+    label: 'bugfix'
+    label: 'fix'
   - title: 🧰 Maintenance
     label: chore
 tag-template: $TITLE @$AUTHOR (#$NUMBER)
