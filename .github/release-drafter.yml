@@ -7,6 +7,8 @@ categories:
     label: bug
   - title: 🧰 Feature Flags
     label: feature-flag
+  - title: 🧰 Documentation
+    label: documentation
 tag-template: $TITLE @$AUTHOR (#$NUMBER)
 template: |
   $CHANGES
