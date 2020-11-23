@@ -10,12 +10,6 @@ numberOfReviewers: 1
 
 # Set to true to add reviewers from different groups to pull requests
 useReviewGroups: true
-
-# A list of reviewers to be added to pull requests (GitHub user name)
-reviewers:
-  - rupalikhopade11
-  - mohanlp
-  - kenp-14928
   
 reviewGroups:
   groupA:
