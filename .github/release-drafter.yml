@@ -1,5 +1,5 @@
 name-template: v$NEXT_PATCH_VERSION
-#tag-template: v$NEXT_PATCH_VERSION
+tag-template: v$NEXT_PATCH_VERSION
 categories:
   - title: 🚀 Features
     label: feature
@@ -9,6 +9,6 @@ categories:
     label: feature-flag
   - title: 🧰 Documentation
     label: documentation
-tag-template: $TITLE @$AUTHOR (#$NUMBER)
+#tag-template: $TITLE @$AUTHOR (#$NUMBER)
 template: |
   $CHANGES
