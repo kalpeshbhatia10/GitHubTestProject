@@ -1,5 +1,5 @@
 public class Example {
-// Add new release draft
+// Group12
   public static void main(String[] args) {
     System.out.println("Hello World, Java app");
   }
