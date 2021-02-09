@@ -18,7 +18,7 @@ reviewGroups:
     - kalpeshbhatia10
   groupB:
     - kenp-14928
-    - serelli
+
 
 # Set to true to add assignees from different groups to pull requests
 useAssigneeGroups: false
