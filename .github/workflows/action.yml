@@ -6,8 +6,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: kentaro-m/auto-assign-action@v1.1.2
-        #with:
-        #  configuration-path: .github/auto_assign.yml # optional, .github/pr-labeler.yml is the default value
+        with:
+          configuration-path: .github/auto_assign.yml # optional, .github/pr-labeler.yml is the default value
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     #steps:
